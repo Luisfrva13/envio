@@ -17,8 +17,6 @@ pd.write('git remote add origin https://github.com/Luisfrva13/envio.git')
 pd.press('enter')
 pd.write('git push -u origin main')
 
-pd.hotkey('ctrl', 't')
-pd.write('https://github.com/Luisfrva13/envio.git')
-pd.press('enter')
+
 
 
